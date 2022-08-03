@@ -14,10 +14,9 @@ will solve the whole puzzle.
 
 
 <p><img  align="left" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
-**Inputting Values in the cells**
 
 <p><img align="right"src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
-**Backtracking Solving the Puzzle Visually**
+
 ## Requirements
 
 The Project was made using python 3.9.13 and 
