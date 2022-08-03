@@ -1,6 +1,6 @@
 
-# Sudoku Solver Game
-<img align="center" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/Sudoku.png" alt="front-image" width="200" height="200"></img>
+# Sudoku Solver Game <img align="center" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/Sudoku.png" alt="front-image" width="200" height="200"></img>
+
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
@@ -13,10 +13,12 @@ will solve the whole puzzle.
 
 ## Demo
 
-<p><img align="left" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
-
-<p><img align="right" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
-
+**Inputting Values in the cells**
+<p><img src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
+</br>
+**Backtracking Solving the Puzzle Visually**
+<p><img src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
+</br>
 
 
 ## Requirements
@@ -43,7 +45,7 @@ build solution from first option , if at some stage
 contraints are not satisfied it backtracks to try another 
 option and do this repeatedly in a recursive way untill
 it finds the solution.
-**How it works**:1) First user should click on the cell
+**How it works**:</br>1) First user should click on the cell
 where he wants to put the entry (0-9) , and enter the 
 numeric value.  
 2) If the user sure of the entry then he should press enter 
