@@ -14,12 +14,9 @@ will solve the whole puzzle.
 
 **Inputting Values in the cells**
 <p><img  align="left" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
-</br>
 
 **Backtracking Solving the Puzzle Visually**
 <p><img align="right"src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
-</br>
-
 
 ## Requirements
 
