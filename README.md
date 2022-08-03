@@ -13,9 +13,9 @@ will solve the whole puzzle.
 ## Demo
 
 
-<p><img  align="right" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
+<p><img  src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
 
-<p><img align="right"src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
+<p><img src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
 
 ## Requirements
 
