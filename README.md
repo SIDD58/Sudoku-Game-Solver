@@ -11,11 +11,8 @@ puzzle on your own and if you get stuck , Backtracking algorithm
 will solve the whole puzzle.
 
 ## Demo
-
-
-<p><img  src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
-
-<p><img src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
+![input](https://user-images.githubusercontent.com/42698210/182729351-52f3fc23-d681-4648-babb-45ba36a73c9a.gif)
+![solver](https://user-images.githubusercontent.com/42698210/182729397-7e27506e-a924-442f-96ec-6e20d6a6d37f.gif)
 
 ## Requirements
 
