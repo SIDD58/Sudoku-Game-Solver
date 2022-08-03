@@ -1,6 +1,5 @@
 
-# Sudoku Solver Game <img align="center" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/Sudoku.png" alt="front-image" width="200" height="200"></img>
-
+# Sudoku Solver Game 
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
@@ -14,10 +13,11 @@ will solve the whole puzzle.
 ## Demo
 
 **Inputting Values in the cells**
-<p><img src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
+<p><img  align="left" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
 </br>
+
 **Backtracking Solving the Puzzle Visually**
-<p><img src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
+<p><img align="right"src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
 </br>
 
 
