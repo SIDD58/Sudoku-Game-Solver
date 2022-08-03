@@ -1,9 +1,6 @@
 
 # Sudoku Solver Game
-
-
- 
-
+<img align="center" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/Sudoku.png" alt="front-image" width="200" height="200"></img>
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
@@ -14,11 +11,12 @@ It is a Sudoku Solver Game made in python. You can solve the
 puzzle on your own and if you get stuck , Backtracking algorithm 
 will solve the whole puzzle.
 
-<p><img align="center "src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/Sudoku.png" alt="front-image" width="500" height="320"></img></p>
 ## Demo
 
-<p><img align="center "src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
-<p><img align="center "src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
+<p><img align="left" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
+
+<p><img align="right" src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
+
 
 
 ## Requirements
@@ -45,16 +43,16 @@ build solution from first option , if at some stage
 contraints are not satisfied it backtracks to try another 
 option and do this repeatedly in a recursive way untill
 it finds the solution.
-**How it works**: First user should click on the cell
+**How it works**:1) First user should click on the cell
 where he wants to put the entry (0-9) , and enter the 
-numeric value.
-If the user sure of the entry then he should press enter 
+numeric value.  
+2) If the user sure of the entry then he should press enter 
 key else if he thinks he has to go another cell , he can 
 either levae cell as it is or delete the cell value using
-delete key 
-If user is stuck at some point then he can press space bar 
+delete key <br />
+3) If user is stuck at some point then he can press space bar 
 and backtracking algorithm will run visually to solve the 
-puzzle 
+puzzle <br />
 
 
 ## Authors
