@@ -13,9 +13,12 @@
 It is a Sudoku Solver Game made in python. You can solve the 
 puzzle on your own and if you get stuck , Backtracking algorithm 
 will solve the whole puzzle.
+
+<p><img align="center "src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/Sudoku.png" alt="front-image" width="500" height="320"></img></p>
 ## Demo
 
-Insert gif or link to demo
+<p><img align="center "src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/input.gif" alt="front-image" width="500" height="500"></img></p>
+<p><img align="center "src="https://github.com/SIDD58/Sudoku-Game-Solver/blob/main/assets/solver.gif" alt="front-image" width="500" height="500"></img></p>
 
 
 ## Requirements
